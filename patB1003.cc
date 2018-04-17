@@ -2,7 +2,7 @@
  /// @file    patB1003.cc
  /// @author  wmjtxt(972213032@qq.com)
  /// @date    2018-04-17 04:12:52(NewYork time)
- /// @from    liuchuo(柳婼)
+ /// @quote   liuchuo(柳婼)
  ///
  
 #include <iostream>

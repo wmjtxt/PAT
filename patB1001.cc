@@ -2,7 +2,7 @@
  /// @file    patB1001.cc
  /// @author  wmjtxt(972213032@qq.com)
  /// @date    2018-04-17 03:21:15(NewYork time)
- /// @from    
+ /// @quote    
  ///
  
 #include <iostream>
