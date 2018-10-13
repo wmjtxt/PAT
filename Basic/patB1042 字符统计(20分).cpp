@@ -28,7 +28,7 @@ int main(){
 	for(int i = 1; i < 26; i++){
 		if(cnt[i] > maxc){
 			maxc = cnt[i];
-			c = c + i;
+			c = 'a' + i;
 		}
 	}
 	cout << c << " " << maxc << endl;
