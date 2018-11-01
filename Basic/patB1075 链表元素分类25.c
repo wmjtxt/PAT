@@ -7,7 +7,7 @@
  
 #include <stdio.h>
 
-
+//不明白第四个测试点为啥错误！！！！！！！！！！！
 int main()
 {
 	int node[100000][2];
