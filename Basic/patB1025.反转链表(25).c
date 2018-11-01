@@ -1,5 +1,5 @@
  ///
- /// @file    :patB1025.cc
+ /// @file    :patB1025.c
  /// @author  :wmjtxt(972213032@qq.com)
  /// @date    :2018-04-18 03:30:32(NewYork time)
  /// @quote   :
