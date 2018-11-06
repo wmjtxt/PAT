@@ -12,7 +12,8 @@
 #include <algorithm>
 using namespace std;
 
-struct Node{ int p = -1;
+struct Node{ 
+	int p = -1;
 	int m = -1; 
 	int f = -1; 
 	int g = -1;
@@ -54,7 +55,7 @@ int main(){
 	int i = 0;
 	for(auto it : list)
 		//if(it.second.g >= 60) res[i++] = it;
-		if(it.second.g >= 60) res.push_bcak(it);
+		if(it.second.g >= 60) res.push_back(it);
 	//res.resize(i);
 	sort(res.begin(), res.end(), cmp);
 	for(auto it : res){
